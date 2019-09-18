@@ -93,7 +93,8 @@ _This is in italics_
 *This is also in italics_  
 __This is bolded__  
 **This is also bolded**  
-_This is placing a **bolded emphasis** within an italics_
+_This is placing a **bolded emphasis** within an italics_  
+Trying ~~crossouts~~
 
 
 
