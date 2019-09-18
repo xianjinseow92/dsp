@@ -59,18 +59,75 @@ What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emo
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
-My favourite emoji is the :smirk:.
+My favourite emoji is the :smirk:.  
+   
+---
 
-### MarkDown Practice
-_Links_  
-Here's my [Linkedin](https://www.linkedin.com/in/seow-xian-jin/)  
+## MarkDown Practice  
+---
 
-**Tables**   
+**_Tables_**   
 
 First Header | Second Header
 -------------|--------------
 Content from Cell 1 | Content from Cell 2
 Column 1 Content | Column 2 Content
+
+
+**_Images_**  
+![Link](https://www.probytes.net/wp-content/uploads/2018/01/5-1.png)
+
+
+**_Links_**  
+My [Linkedin](https://www.linkedin.com/in/seow-xian-jin/)
+
+
+
+**_Content Page_**  
+[1)   This will link to somewhere pretty far down](#section-a)
+
+
+
+**_Emphasis_**  
+_This is in italics_
+*This is also in italics_
+__This is bolded__
+**This is also bolded**
+_This is placing a **bolded emphasis** within an italics_
+
+
+
+
+**_Lists_**  
+*Unordered*  
+* Item 1
+* Item 2
+  * Testing item 1
+  * Testing item 2
+
+
+*Ordered*  
+1. Item 1
+1. Item 2
+  1. Is this going to be ordered?
+
+**_BlockQuotes_**  
+_As XJ once said:_
+
+> He only drinks kopi-o kosong peng.
+
+
+**_Inline code_**  
+I think you should use an '<print>' here instead.
+
+
+
+
+
+
+## <a name='section-a'></a>1) Pretty far down
+You did it!
+
 
 
 
