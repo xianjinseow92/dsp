@@ -62,5 +62,5 @@ What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emo
 My favourite emoji is the :smirk:.
 
 ### MarkDown Practice
-_Links_
+_Links_  
 Here's my [Linkedin](https://www.linkedin.com/in/seow-xian-jin/)
