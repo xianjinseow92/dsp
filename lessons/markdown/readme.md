@@ -21,6 +21,13 @@ Typora is a fantastic free software that renders your markdown in realtime as yo
 ### [What Is Markdown? 4 Reasons Why You Should Learn It Now](http://www.makeuseof.com/tag/markdown-4-reasons-learn-now/)  
 Markdown is a simple way to add formatting — like headers, bold/italic text, and lists — to plain text. Rather than relying on HTML or [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) editors, Markdown allows you to create full pages of formatted text without ever having to remove your fingers from the keyboard, and all in a way that’s much more intuitive than HTML.  
 
+--- 
+#### Xj's own Table of Contents Tryout
+[1   Link to Random Stuff](#section-1)
+
+
+##### <a name='section-1'></a>1) Random Stuff
+
 ---
 
 #### Table of Contents
