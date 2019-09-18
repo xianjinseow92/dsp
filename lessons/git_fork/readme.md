@@ -60,3 +60,10 @@ What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emo
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 My favourite emoji is the :smirk:.
+
+## Trying to use Markdown for gitHub:
+Tables:
+First Header | Second Header
+-------------|--------------
+Cotent from cell 1 | Content from Cell 2
+Hello | Testing this out
