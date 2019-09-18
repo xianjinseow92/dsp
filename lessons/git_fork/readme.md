@@ -89,9 +89,9 @@ My [Linkedin](https://www.linkedin.com/in/seow-xian-jin/)
 
 
 **_Emphasis_**  
-_This is in italics_
-*This is also in italics_
-__This is bolded__
+_This is in italics_  
+*This is also in italics_  
+__This is bolded__  
 **This is also bolded**
 _This is placing a **bolded emphasis** within an italics_
 
@@ -112,18 +112,12 @@ _This is placing a **bolded emphasis** within an italics_
   1. Is this going to be ordered?
 
 **_BlockQuotes_**  
-_As XJ once said:_
-
+_As XJ once said:_  
 > He only drinks kopi-o kosong peng.
 
 
 **_Inline code_**  
-I think you should use an '<print>' here instead.
-
-
-
-
-
+I think you should use an '<addr>' here instead.
 
 ## <a name='section-a'></a>1) Pretty far down
 You did it!
