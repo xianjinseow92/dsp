@@ -63,4 +63,14 @@ My favourite emoji is the :smirk:.
 
 ### MarkDown Practice
 _Links_  
-Here's my [Linkedin](https://www.linkedin.com/in/seow-xian-jin/)
+Here's my [Linkedin](https://www.linkedin.com/in/seow-xian-jin/)  
+
+**Tables**   
+
+First Header | Second Header
+-------------|--------------
+Content from Cell 1 | Content from Cell 2
+Column 1 Content | Column 2 Content
+
+
+
