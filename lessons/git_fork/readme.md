@@ -92,7 +92,7 @@ My [Linkedin](https://www.linkedin.com/in/seow-xian-jin/)
 _This is in italics_  
 *This is also in italics_  
 __This is bolded__  
-**This is also bolded**
+**This is also bolded**  
 _This is placing a **bolded emphasis** within an italics_
 
 
